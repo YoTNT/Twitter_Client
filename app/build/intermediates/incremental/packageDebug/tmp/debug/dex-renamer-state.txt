@@ -1,4 +1,4 @@
-#Thu Mar 07 18:08:00 EST 2019
+#Mon Mar 18 22:35:36 EDT 2019
 base.0=/Users/bone007/Downloads/SimpleTweet/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 05 19:36:08 EST 2019
+#Sun Mar 17 16:02:44 EDT 2019
 0.baseType=DIRECTORY
 0.base=/Users/bone007/Downloads/SimpleTweet/app/build/intermediates/dex/debug/mergeDexDebug/out
 0.path=classes.dex
